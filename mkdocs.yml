@@ -1,0 +1,55 @@
+site_name: 吉他譜集
+site_url: https://justmaker.github.io/guitar-scores/
+repo_url: https://github.com/justmaker/guitar-scores
+
+theme:
+  name: material
+  language: zh-TW
+  palette:
+    - scheme: default
+      primary: amber
+      toggle:
+        icon: material/brightness-7
+        name: 切換深色模式
+    - scheme: slate
+      primary: amber
+      toggle:
+        icon: material/brightness-4
+        name: 切換淺色模式
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - admonitions
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+extra:
+  tags:
+    難度-初級: beginner
+    難度-中級: intermediate
+    難度-進階: advanced
+    指彈: fingerstyle
+    刷弦: strumming
+
+nav:
+  - 首頁: index.md
+  - 初級:
+    - beginner/index.md
+  - 中級:
+    - intermediate/index.md
+  - 進階:
+    - advanced/index.md
+  - 關於: about.md
