@@ -48,6 +48,7 @@ nav:
   - 首頁: index.md
   - 初級:
     - beginner/index.md
+    - 小幸運: beginner/xiao-xing-yun.md
   - 中級:
     - intermediate/index.md
   - 進階:
