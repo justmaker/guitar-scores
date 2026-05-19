@@ -53,4 +53,6 @@ nav:
     - intermediate/index.md
   - 進階:
     - advanced/index.md
+  - 參考:
+    - 常用和弦指法: reference/chords.md
   - 關於: about.md
