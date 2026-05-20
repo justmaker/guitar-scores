@@ -44,3 +44,30 @@ tags:
     - 高清圖片譜，適合在手機/平板看
     - 中文歌曲豐富（周杰倫、趙雷、林俊傑等）
 - **適合**：想找高清圖片譜、或 91 譜沒收錄的歌曲時的替代來源
+
+### Songsterr
+
+- **網址**：[https://www.songsterr.com](https://www.songsterr.com)
+- **特色**：
+    - 互動式 Tab 譜，可播放每個軌道
+    - 支援調速、循環段落練習
+    - 西洋歌曲為主，收錄極大量
+- **適合**：練指彈、練 solo、聽各軌道分解
+
+### Shawn Tan 吉他譜
+
+- **網址**：[https://www.shawntanch.com/free-guitartab](https://www.shawntanch.com/free-guitartab)
+- **特色**：
+    - 馬來西亞吉他手 Shawn Tan 的個人網站
+    - 免費指彈譜為主，品質精緻
+    - 有教學影片搭配
+- **適合**：想學指彈編曲、找高品質 fingerstyle 譜
+
+### 文吉他
+
+- **網址**：[https://wenguitar01.co/category/吉他譜/](https://wenguitar01.co/category/%E5%90%89%E4%BB%96%E8%AD%9C/)
+- **特色**：
+    - 台灣吉他教學部落格
+    - 華語流行歌曲譜 + 教學文章
+    - 有彈唱示範影片
+- **適合**：華語彈唱、想看文字教學搭配影片解說
