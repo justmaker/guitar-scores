@@ -49,8 +49,10 @@ nav:
   - 初級:
     - beginner/index.md
     - 小幸運: beginner/xiao-xing-yun.md
+    - 披星戴月的想你: beginner/pi-xing-dai-yue.md
   - 中級:
     - intermediate/index.md
+    - 晴天: intermediate/qing-tian.md
   - 進階:
     - advanced/index.md
   - 參考:
