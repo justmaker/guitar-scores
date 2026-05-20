@@ -18,7 +18,7 @@ tags:
 
 ## 使用和弦
 
-C, Em, Am, F
+[C](../reference/chords.md#c), [Em](../reference/chords.md#em), [Am](../reference/chords.md#am), [F](../reference/chords.md#f)
 
 ## 刷法與指法
 

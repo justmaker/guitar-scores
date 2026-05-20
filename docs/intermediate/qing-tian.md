@@ -18,7 +18,7 @@ tags:
 
 ## 使用和弦
 
-Em7, Cadd9, G, D/F#, Dsus4, D, C, B, Am7
+[Em7](../reference/chords.md#em7), [Cadd9](../reference/chords.md#cadd9), [G](../reference/chords.md#g), [D/F#](../reference/chords.md#dfsharp), [Dsus4](../reference/chords.md#dsus4), [D](../reference/chords.md#d), [C](../reference/chords.md#c), [B](../reference/chords.md#b), [Am7](../reference/chords.md#am7)
 
 ## 刷法與指法
 

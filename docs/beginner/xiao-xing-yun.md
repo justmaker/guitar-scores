@@ -15,6 +15,8 @@ tags:
 
 ## 和弦進行
 
+使用和弦：[G](../reference/chords.md#g), [D/F#](../reference/chords.md#dfsharp), [Em](../reference/chords.md#em), [C](../reference/chords.md#c), [D](../reference/chords.md#d), [Am](../reference/chords.md#am), [F](../reference/chords.md#f)
+
 ```
 前奏:  | G | D/F# | Em | C | D |
 主歌:  | G | D/F# | Em | C | D |
