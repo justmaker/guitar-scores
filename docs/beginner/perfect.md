@@ -131,6 +131,10 @@ tags:
 前奏 → 主歌1 → 預副歌 → 副歌 → 間奏 → 主歌2 → 預副歌 → 副歌2 → 尾奏
 ```
 
+## 教學影片
+
+- [Ed Sheeran - Perfect 吉他教學](https://youtu.be/r8adgdaiyeA?si=wf0yj5mWTqBFn1Pw)
+
 ## 練習筆記
 
 - 全曲只用 G, Em, C, D 四個開放和弦，非常適合初學
