@@ -1,31 +1,47 @@
-/* 譜頁緊湊排版：縮小段落標題和 code block 行距 */
+/* 吉他譜手機緊湊排版 */
+
+/* 段落標題縮小 */
 .md-content h2 {
-  font-size: 1.1rem;
-  margin-top: 0.6em;
-  margin-bottom: 0.2em;
-  padding-bottom: 0;
-  border-bottom: none;
+  font-size: 1rem;
+  margin: 0.5em 0 0.1em 0;
+  padding: 0;
+  border-bottom: 1px solid #ddd;
 }
 
 .md-content h3 {
-  font-size: 1rem;
-  margin-top: 0.4em;
-  margin-bottom: 0.1em;
+  font-size: 0.9rem;
+  margin: 0.3em 0 0.1em 0;
 }
 
+/* code block: 允許換行、縮小字體、壓縮 padding */
 .md-content pre {
-  margin-top: 0.2em;
-  margin-bottom: 0.4em;
-  padding: 0.4em 0.6em;
-  font-size: 0.82rem;
-  line-height: 1.4;
+  margin: 0.1em 0 0.3em 0;
+  padding: 0.3em 0.5em;
+  font-size: 0.75rem;
+  line-height: 1.35;
+  white-space: pre-wrap;
+  word-break: break-all;
+  overflow-x: hidden;
 }
 
 .md-content code {
-  font-size: 0.82rem;
+  font-size: 0.75rem;
 }
 
+/* 段落間距壓縮 */
 .md-content p {
-  margin-top: 0.2em;
-  margin-bottom: 0.2em;
+  margin: 0.15em 0;
+  font-size: 0.85rem;
+}
+
+/* 表格緊湊 */
+.md-content table {
+  font-size: 0.8rem;
+}
+
+/* 隱藏 TOC 側邊欄在小螢幕節省空間 */
+@media (max-width: 960px) {
+  .md-sidebar--secondary {
+    display: none;
+  }
 }
