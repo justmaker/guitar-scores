@@ -45,6 +45,9 @@ extra:
     指彈: fingerstyle
     刷弦: strumming
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - 首頁: index.md
   - 初級:

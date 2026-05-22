@@ -1,0 +1,31 @@
+/* 譜頁緊湊排版：縮小段落標題和 code block 行距 */
+.md-content h2 {
+  font-size: 1.1rem;
+  margin-top: 0.6em;
+  margin-bottom: 0.2em;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.md-content h3 {
+  font-size: 1rem;
+  margin-top: 0.4em;
+  margin-bottom: 0.1em;
+}
+
+.md-content pre {
+  margin-top: 0.2em;
+  margin-bottom: 0.4em;
+  padding: 0.4em 0.6em;
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+
+.md-content code {
+  font-size: 0.82rem;
+}
+
+.md-content p {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
