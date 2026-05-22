@@ -158,3 +158,9 @@ body.perform-mode .md-main__inner {
 #perform-toggle:hover {
   background: #FF8F00;
 }
+
+/* 和弦圖片表格等高 */
+.md-content table img {
+  height: 120px;
+  width: auto;
+}
