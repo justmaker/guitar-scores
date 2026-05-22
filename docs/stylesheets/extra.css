@@ -119,6 +119,9 @@ body.perform-mode .md-content .highlight code {
   padding: 0.2em 0.4em;
   border: none;
   background: transparent;
+  white-space: pre;
+  word-break: normal;
+  overflow-x: auto;
 }
 
 body.perform-mode .md-content {
