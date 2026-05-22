@@ -30,105 +30,78 @@ tags:
 ## 前奏
 
 ```
-| G | G | G | G |
+|G    |G    |G    |G
 ```
 
 ## 主歌一
 
 ```
-|G                     |Em
- I found a love        for me
-|C                     |D
- Darling just dive right in  and follow my lead
-
-|G                     |Em
- Well I found a girl    beautiful and sweet
-|C                     |D
- Oh I never knew you were  the someone waiting for me
+|G    |Em   |C    |D
+ I found a love for me  Darling just dive right in and follow my lead
+|G    |Em   |C    |D
+ Well I found a girl beautiful and sweet  Oh I never knew you were the someone waiting for me
 ```
 
 ## 預副歌
 
 ```
-       |G
- Cause we were just kids when we fell in love
-        |Em
- Not knowing what it was
-        |C               |D
- I will not give you up this  time
-
-        |G
- But darling just kiss me slow
-         |Em
- Your heart is all I own
-        |C               |D
- And in your eyes you're holding  mine
+|G    |Em   |C    |D
+ Cause we were just kids when we fell in love  Not knowing what it was  I will not give you up this time
+|G    |Em   |C    |D
+ But darling just kiss me slow  Your heart is all I own  And in your eyes you're holding mine
 ```
 
 ## 副歌
 
 ```
-|Em       |C          |G          |D
- Baby     I'm         dancing in the dark
-|Em              |C              |G          |D
- With you between my arms
-|Em       |C          |G          |D
- Barefoot on the grass     listening to our
-|Em       |C          |D
- Favourite song     when you said you looked a mess
-|Em       |C          |D                      |
- I whispered underneath my breath  but you heard it
-|G          |D          |Em    |C        |
+|Em   |C    |G    |D
+ Baby I'm dancing in the dark  With you between my arms
+|Em   |C    |G    |D
+ Barefoot on the grass listening to our  Favourite song
+|Em   |C    |D    |
+ When you said you looked a mess  I whispered underneath my breath but you heard it
+|G    |D    |Em   |C
  Darling you look perfect tonight
 ```
 
 ## 間奏
 
 ```
-| G | G | G | G |
+|G    |G    |G    |G
 ```
 
 ## 主歌二
 
 ```
-|G                     |Em
- Well I found a woman   stronger than anyone I know
-|C                     |D
- She shares my dreams   I hope that someday I'll share her home
-
-|G                     |Em
- I found a love        to carry more than just my secrets
-|C                     |D
- To carry love to carry children  of our own
+|G    |Em   |C    |D
+ Well I found a woman stronger than anyone I know  She shares my dreams I hope that someday I'll share her home
+|G    |Em   |C    |D
+ I found a love to carry more than just my secrets  To carry love to carry children of our own
 ```
 
-## 副歌二（同副歌結構）
+## 副歌二
 
 ```
-|Em       |C          |G          |D
- Baby     I'm         dancing in the dark
-|Em              |C              |G          |D
- With you between my arms
-|Em       |C          |G          |D
- Barefoot on the grass     listening to our
-|Em       |C          |D
- Favourite song     when I saw you in that dress
-|Em       |C          |D                      |
- Looking so beautiful   I don't deserve this
-|G          |D          |Em    |C        |
+|Em   |C    |G    |D
+ Baby I'm dancing in the dark  With you between my arms
+|Em   |C    |G    |D
+ Barefoot on the grass listening to our  Favourite song
+|Em   |C    |D    |
+ When I saw you in that dress  Looking so beautiful I don't deserve this
+|G    |D    |Em   |C
  Darling you look perfect tonight
 ```
 
 ## 尾奏
 
 ```
-| G | D | Em | C | G |
+|G    |D    |Em   |C    |G
 ```
 
 ## 歌曲結構
 
 ```
-前奏 → 主歌1 → 預副歌 → 副歌 → 間奏 → 主歌2 → 預副歌 → 副歌2 → 尾奏
+前奏→主歌1→預副歌→副歌→間奏→主歌2→預副歌→副歌2→尾奏
 ```
 
 ## 教學影片
