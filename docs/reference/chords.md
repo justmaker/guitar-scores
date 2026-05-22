@@ -146,9 +146,9 @@ tags:
 
 ### Bm7（Bm 簡易替代） {#bm7}
 
-| `x20202` | — |
+| `x20202` | → Bm `4222` |
 |:--:|:--:|
-| ![](img/bm7.png) | |
+| ![](img/bm7.png) | ![](img/uke/bm.png) |
 
 ## 封閉和弦（Barre Chords）
 
@@ -186,39 +186,39 @@ tags:
 
 ### E7sus4 {#e7sus4}
 
-| `020200` | — |
+| `020200` | `2200` |
 |:--:|:--:|
-| ![](img/e7sus4.png) | |
+| ![](img/e7sus4.png) | ![](img/uke/e7sus4.png) |
 
 ### Bm/D {#bmd}
 
-| `xx0432` | — |
+| `xx0432` | → Bm `4222` |
 |:--:|:--:|
-| ![](img/bm_d.png) | |
+| ![](img/bm_d.png) | ![](img/uke/bm.png) |
 
 ### G/D {#gd}
 
-| `xx0003` | — |
+| `xx0003` | → G `0232` |
 |:--:|:--:|
-| ![](img/g_d.png) | |
+| ![](img/g_d.png) | ![](img/uke/g.png) |
 
 ### B7/Eb {#b7eb}
 
-| `x21220` | — |
+| `x21220` | → B7 `2322` |
 |:--:|:--:|
-| ![](img/b7_eb.png) | |
+| ![](img/b7_eb.png) | ![](img/uke/b7.png) |
 
 ### B/Eb {#beb}
 
-| `x2444x` | — |
+| `x2444x` | → B `4322` |
 |:--:|:--:|
-| ![](img/b_eb.png) | |
+| ![](img/b_eb.png) | ![](img/uke/b.png) |
 
 ### C#m7-5 {#csharpm7b5}
 
-| `x4545x` | — |
+| `x4545x` | `0101` |
 |:--:|:--:|
-| ![](img/csharp_m7b5.png) | |
+| ![](img/csharp_m7b5.png) | ![](img/uke/csharpm7b5.png) |
 
 > 半減七和弦，出現在「世界末日」副歌。
 
