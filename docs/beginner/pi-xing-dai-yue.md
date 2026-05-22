@@ -30,8 +30,9 @@ tags:
 ## 前奏
 
 ```
-| C | C | Em | Em | Am | Am | F | F |
-| C | C | Em | Em |
+|C  |C  |Em  |Em
+|Am |Am |F   |F
+|C  |C  |Em  |Em
 ```
 
 ## 主歌一
