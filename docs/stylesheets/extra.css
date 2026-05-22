@@ -92,7 +92,15 @@ body.perform-mode .md-typeset > p {
   display: none !important;
 }
 
-/* 但保留 h2（段落標題）和 pre（譜）*/
+/* 隱藏非譜內容：table, 段落文字, scrollwrap */
+body.perform-mode .md-content h1,
+body.perform-mode .md-content .md-typeset__scrollwrap,
+body.perform-mode .md-content > article > p,
+body.perform-mode .md-content article > p {
+  display: none !important;
+}
+
+/* 保留 h2（段落標題）和 .highlight（譜）*/
 body.perform-mode .md-content h2 {
   display: block !important;
   font-size: 0.85rem;
@@ -101,7 +109,9 @@ body.perform-mode .md-content h2 {
   border: none;
 }
 
-body.perform-mode .md-content pre {
+body.perform-mode .md-content .highlight,
+body.perform-mode .md-content .highlight pre,
+body.perform-mode .md-content .highlight code {
   display: block !important;
   font-size: 0.78rem;
   line-height: 1.4;
