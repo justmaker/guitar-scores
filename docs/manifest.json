@@ -1,0 +1,21 @@
+{
+  "name": "吉他譜集",
+  "short_name": "吉他譜",
+  "description": "個人吉他學習譜集",
+  "start_url": "/guitar-scores/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FFA000",
+  "icons": [
+    {
+      "src": "/guitar-scores/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/guitar-scores/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

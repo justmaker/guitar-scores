@@ -5,6 +5,7 @@ repo_url: https://github.com/justmaker/guitar-scores
 theme:
   name: material
   language: zh-TW
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: amber
@@ -47,6 +48,9 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
 
 nav:
   - 首頁: index.md
