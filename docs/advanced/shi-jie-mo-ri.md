@@ -18,7 +18,7 @@ tags:
 
 ## 使用和弦
 
-[G](../reference/chords.md#g), [C](../reference/chords.md#c), [D](../reference/chords.md#d), [Dsus4](../reference/chords.md#dsus4), [D/F#](../reference/chords.md#dfsharp), [Em7](../reference/chords.md#em7), [Am7](../reference/chords.md#am7), [Bm7](../reference/chords.md#bm7), [E7](../reference/chords.md#e7), [B7](../reference/chords.md#b), [Em](../reference/chords.md#em), [G/B](../reference/chords.md#gb), E7sus4, Bm/D, B7/Eb, B/Eb, G/D, C#m7-5
+[G](../reference/chords.md#g), [C](../reference/chords.md#c), [D](../reference/chords.md#d), [Dsus4](../reference/chords.md#dsus4), [D/F#](../reference/chords.md#dfsharp), [Em7](../reference/chords.md#em7), [Am7](../reference/chords.md#am7), [Bm7](../reference/chords.md#bm7), [E7](../reference/chords.md#e7), [B7](../reference/chords.md#b), [Em](../reference/chords.md#em), [G/B](../reference/chords.md#gb), [E7sus4](../reference/chords.md#e7sus4), [Bm/D](../reference/chords.md#bmd), [B7/Eb](../reference/chords.md#b7eb), [B/Eb](../reference/chords.md#beb), [G/D](../reference/chords.md#gd), [C#m7-5](../reference/chords.md#csharpm7b5)
 
 ## 刷法與指法
 
